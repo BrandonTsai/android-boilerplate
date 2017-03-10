@@ -1,8 +1,15 @@
+
 # Android Boilerplate
 
 Sample Android app that we use at [ribot](http://ribot.co.uk) as a reference for new Android projects. It demonstrates the architecture, tools and guidelines that we use when developing for the Android platform (https://github.com/ribot/android-guidelines)
 
-Libraries and tools included:
+
+## ToDos:
+- add SQLite/SharePreference debug tool: https://github.com/amitshekhariitbhu/Android-Debug-Database
+- refine File Structure
+
+
+## Libraries and tools included:
 
 - Support libraries
 - RecyclerViews and CardViews 
