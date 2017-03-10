@@ -7,6 +7,7 @@ Sample Android app that we use at [ribot](http://ribot.co.uk) as a reference for
 ## ToDos:
 - add SQLite/SharePreference debug tool: https://github.com/amitshekhariitbhu/Android-Debug-Database
 - refine File Structure
+- shell script to set up new project
 
 
 ## Libraries and tools included:
